@@ -74,6 +74,11 @@ body {
     animation: fadein 10s;
 }
 
+.top__btn {
+    font-family: "Roboto", sans-serif;
+
+}
+
 .fa-heart-animated {
         position: absolute;
         left: 50%;
